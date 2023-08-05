@@ -2,3 +2,5 @@ pandas
 Plotly
 jupyter
 notebook
+scikit-learn
+Matplotlib
